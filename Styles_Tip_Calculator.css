@@ -1,0 +1,58 @@
+.container{
+	height: 600px;
+	width: 400px;
+	background-color: #f7f7f7;
+}
+
+#heading{
+	text-align: center;
+	height: 40px;
+	width: 400px;
+	background-color: #1F030C;
+	color: #FFF;
+}
+
+.container label{
+	padding-left: 10px;
+	display: block;
+	margin: 5px;
+}
+
+.container input{
+	margin-left: 10px;
+	margin-top: 10px;
+	padding: 5px; 
+	width: 200px;
+}
+
+.container select{
+	margin-left: 10px;
+	margin-top: 10px;
+	padding: 5px; 
+	margin: 10px;
+	width: 200px;	
+}
+
+/*.container1{
+	display: inline;
+}*/
+
+.container button{
+    padding-right: 100px;
+    padding-left: 100px; 
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    display: block;
+    background: #AD133A;
+    color: #fff;
+    text-align: center;
+}
+
+.container p{
+	text-align: center;
+	font-weight: bold;
+}
+
